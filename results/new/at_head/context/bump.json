@@ -1,0 +1,221 @@
+[
+  {
+    "version": "3.0.1",
+    "commits": [
+      {
+        "id": "3f34cd6460c2cdd18fc9dec51d8b0819f8258a4e",
+        "message": "another one",
+        "body": null,
+        "footers": [],
+        "group": "📝 Documentation",
+        "breaking_description": null,
+        "breaking": false,
+        "scope": null,
+        "links": [],
+        "author": {
+          "name": "Tiago Santos",
+          "email": "tvcsantos@gmail.com",
+          "timestamp": 1702057463
+        },
+        "committer": {
+          "name": "Tiago Santos",
+          "email": "tvcsantos@gmail.com",
+          "timestamp": 1702057463
+        },
+        "conventional": true
+      }
+    ],
+    "commit_id": null,
+    "timestamp": 1702060147,
+    "previous": {
+      "version": "v3.0.0",
+      "commits": [
+        {
+          "id": "87842c76960e4a545bc92c4c2d2dbe1e4adfd3a3",
+          "message": "docs: add even more text\n",
+          "group": null,
+          "scope": null,
+          "links": [],
+          "author": {
+            "name": "Tiago Santos",
+            "email": "tvcsantos@gmail.com",
+            "timestamp": 1702057444
+          },
+          "committer": {
+            "name": "Tiago Santos",
+            "email": "tvcsantos@gmail.com",
+            "timestamp": 1702057444
+          },
+          "conventional": false
+        }
+      ],
+      "commit_id": "87842c76960e4a545bc92c4c2d2dbe1e4adfd3a3",
+      "timestamp": 1702057444,
+      "previous": null
+    }
+  },
+  {
+    "version": "v3.0.0",
+    "commits": [
+      {
+        "id": "87842c76960e4a545bc92c4c2d2dbe1e4adfd3a3",
+        "message": "add even more text",
+        "body": null,
+        "footers": [],
+        "group": "📝 Documentation",
+        "breaking_description": null,
+        "breaking": false,
+        "scope": null,
+        "links": [],
+        "author": {
+          "name": "Tiago Santos",
+          "email": "tvcsantos@gmail.com",
+          "timestamp": 1702057444
+        },
+        "committer": {
+          "name": "Tiago Santos",
+          "email": "tvcsantos@gmail.com",
+          "timestamp": 1702057444
+        },
+        "conventional": true
+      }
+    ],
+    "commit_id": "87842c76960e4a545bc92c4c2d2dbe1e4adfd3a3",
+    "timestamp": 1702057444,
+    "previous": {
+      "version": "v2.0.0",
+      "commits": [
+        {
+          "id": "9f7abd81328ad2036ada8e790fba3e22cc63b767",
+          "message": "docs: add more text\n",
+          "group": null,
+          "scope": null,
+          "links": [],
+          "author": {
+            "name": "Tiago Santos",
+            "email": "tvcsantos@gmail.com",
+            "timestamp": 1702057424
+          },
+          "committer": {
+            "name": "Tiago Santos",
+            "email": "tvcsantos@gmail.com",
+            "timestamp": 1702057424
+          },
+          "conventional": false
+        }
+      ],
+      "commit_id": "9f7abd81328ad2036ada8e790fba3e22cc63b767",
+      "timestamp": 1702057424,
+      "previous": null
+    }
+  },
+  {
+    "version": "v2.0.0",
+    "commits": [
+      {
+        "id": "9f7abd81328ad2036ada8e790fba3e22cc63b767",
+        "message": "add more text",
+        "body": null,
+        "footers": [],
+        "group": "📝 Documentation",
+        "breaking_description": null,
+        "breaking": false,
+        "scope": null,
+        "links": [],
+        "author": {
+          "name": "Tiago Santos",
+          "email": "tvcsantos@gmail.com",
+          "timestamp": 1702057424
+        },
+        "committer": {
+          "name": "Tiago Santos",
+          "email": "tvcsantos@gmail.com",
+          "timestamp": 1702057424
+        },
+        "conventional": true
+      }
+    ],
+    "commit_id": "9f7abd81328ad2036ada8e790fba3e22cc63b767",
+    "timestamp": 1702057424,
+    "previous": {
+      "version": "v1.0.0",
+      "commits": [
+        {
+          "id": "8c10b228a98349e05c7b6c852bbcb81e3dfa8951",
+          "message": "Initial commit",
+          "group": null,
+          "scope": null,
+          "links": [],
+          "author": {
+            "name": "Tiago Santos",
+            "email": "tvcsantos@gmail.com",
+            "timestamp": 1702057048
+          },
+          "committer": {
+            "name": "GitHub",
+            "email": "noreply@github.com",
+            "timestamp": 1702057048
+          },
+          "conventional": false
+        },
+        {
+          "id": "fa211a975e7c2a60053561e45660b0c57b847c72",
+          "message": "docs: add dummy file\n",
+          "group": null,
+          "scope": null,
+          "links": [],
+          "author": {
+            "name": "Tiago Santos",
+            "email": "tvcsantos@gmail.com",
+            "timestamp": 1702057399
+          },
+          "committer": {
+            "name": "Tiago Santos",
+            "email": "tvcsantos@gmail.com",
+            "timestamp": 1702057399
+          },
+          "conventional": false
+        }
+      ],
+      "commit_id": "fa211a975e7c2a60053561e45660b0c57b847c72",
+      "timestamp": 1702057399,
+      "previous": null
+    }
+  },
+  {
+    "version": "v1.0.0",
+    "commits": [
+      {
+        "id": "fa211a975e7c2a60053561e45660b0c57b847c72",
+        "message": "add dummy file",
+        "body": null,
+        "footers": [],
+        "group": "📝 Documentation",
+        "breaking_description": null,
+        "breaking": false,
+        "scope": null,
+        "links": [],
+        "author": {
+          "name": "Tiago Santos",
+          "email": "tvcsantos@gmail.com",
+          "timestamp": 1702057399
+        },
+        "committer": {
+          "name": "Tiago Santos",
+          "email": "tvcsantos@gmail.com",
+          "timestamp": 1702057399
+        },
+        "conventional": true
+      }
+    ],
+    "commit_id": "fa211a975e7c2a60053561e45660b0c57b847c72",
+    "timestamp": 1702057399,
+    "previous": {
+      "version": null,
+      "commits": [],
+      "commit_id": null,
+      "timestamp": 0,
+      "previous": null
+    }
+  }
+]

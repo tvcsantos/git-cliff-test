@@ -1,0 +1,38 @@
+[
+  {
+    "version": null,
+    "commits": [
+      {
+        "id": "3f34cd6460c2cdd18fc9dec51d8b0819f8258a4e",
+        "message": "another one",
+        "body": null,
+        "footers": [],
+        "group": "📝 Documentation",
+        "breaking_description": null,
+        "breaking": false,
+        "scope": null,
+        "links": [],
+        "author": {
+          "name": "Tiago Santos",
+          "email": "tvcsantos@gmail.com",
+          "timestamp": 1702057463
+        },
+        "committer": {
+          "name": "Tiago Santos",
+          "email": "tvcsantos@gmail.com",
+          "timestamp": 1702057463
+        },
+        "conventional": true
+      }
+    ],
+    "commit_id": null,
+    "timestamp": 0,
+    "previous": {
+      "version": "v3.0.0",
+      "commits": [],
+      "commit_id": "87842c76960e4a545bc92c4c2d2dbe1e4adfd3a3",
+      "timestamp": 0,
+      "previous": null
+    }
+  }
+]
